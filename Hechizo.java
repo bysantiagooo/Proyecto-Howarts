@@ -44,7 +44,7 @@ public class Hechizo {
                 }
                 break;
             case "Slytherin":
-                if (nombre.equals("Cruciatus")) {
+                if (nombre.equals("ataque")) {
                     daño *= 1.3;
                 }
                 break;
